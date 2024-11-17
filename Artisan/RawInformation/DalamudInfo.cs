@@ -32,7 +32,7 @@ namespace Artisan.RawInformation
                         {
                             StagingChecked = true;
                             IsStaging = true;
-                            return true;
+                            return false;
                         }
                         else
                         {
